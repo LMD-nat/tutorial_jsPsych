@@ -32,11 +32,12 @@ Nope, you just need a browser to learn for this specific tutorial. If you want t
 
 ## What are we building? ##
 
-We're going to build three small experiments, and then one big experiment with all three tasks together. 
+We're going to build four small experiments, and then one big experiment with all four tasks together. 
 
 1. A questionnaire :question:
-2. A decision-making task :thought_balloon:
-3. A matrix-reasoning task :1234:
+2. A language task :speech_balloon:
+3. A decision-making task :thought_balloon:
+4. A matrix-reasoning task :1234:
 
 Then all together, they'll make for a neat experiment on cognition. We can even look later to see if the questionnaire data we collect is at all correlated to how well people perform on the tasks. 
 
