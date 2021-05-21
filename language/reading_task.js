@@ -1,3 +1,5 @@
+// press the "L" key to move forward one word!
+
 var dog = { // normal sentence
       type: 'moving-window',
       words: "The dog chased the car",
