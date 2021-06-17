@@ -34,5 +34,9 @@ var words = [dog, chien, voiture, banana, banane, singe];
 var experiment = jsPsych.randomization.shuffle(words);
 
 jsPsych.init({
-    timeline: experiment
+    timeline: experiment, 
+    on_finish: function(data){
+			//jsPsych.data.get().localSave('csv','questionnaire_'+subject_id+'_'+cond+'.csv'); // download locally if you'd like
+		document.body.innerHTML = '<br> <p style="font-size:35px"> <center>You have completed this reading task! Have a great day! You can now close this page.</center></p>'	}
+
 });
