@@ -45,3 +45,8 @@ Then all together, they'll make for a neat experiment on cognition. We can even 
 ## When is it? ##
 
 July 9th, 2021. More info coming soon! [Email me](mailto:nathalie.germain@mail.concordia.ca) if you have questions!
+
+
+## Can I just try to figure it out myself? ##
+
+Sure! Here's a [page](https://github.com/LMD-nat/tutorial_jsPsych/wiki/Getting-Started) I wrote on how to get started and how to make a *very* simple experiment. Stay tuned for instructions and code for the other tasks we'll be looking at. 
