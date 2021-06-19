@@ -42,3 +42,6 @@ We're going to build four small experiments, and then one big experiment with al
 Then all together, they'll make for a neat experiment on cognition. We can even look later to see if the questionnaire data we collect is at all correlated to how well people perform on the tasks. 
 
 
+## When is it? ##
+
+July 9th, 2021. More info coming soon! [Email me](mailto:nathalie.germain@mail.concordia.ca) if you have questions!
