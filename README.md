@@ -32,7 +32,7 @@ Nope, you just need a browser to learn for this specific tutorial. If you want t
 
 ## What are we building? ##
 
-We're going to build four small experiments, and then one big experiment with all four tasks together. 
+We're going to build four small experiments, and then (maybe) one big experiment with all four tasks together. 
 
 1. A questionnaire :question:
 2. A bilingualism task :speech_balloon:
