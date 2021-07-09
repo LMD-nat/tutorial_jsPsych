@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      img {
+        width: 500px;
+        }
+    </style>
+    <body>
+      <p>Welcome to the workshop!</p>
+      <img src="https://github.com/LMD-nat/tutorial_jsPsych/blob/master/interest/tutorial/logo-image.png?raw=true"></img>
+    </body>
+      <script>
+        document.querySelector('img').addEventListener('click', function(){
+          document.querySelector('body').innerHTML = '<p>Let\'s get started!</p>';
+        });
+      </script>
+  </head>
+  </html>
