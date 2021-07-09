@@ -5,8 +5,13 @@ Cacioppo, J. T., Petty, R. E., & Kao, C. F. (1984). The efficient assessment of 
 PDF version of the Scale (https://www.midss.org/sites/default/files/ncogscale.pdf)
 */
 
-var timeline = [];
+var subject_id = jsPsych.randomization.randomID(7); //random 7 digit id
+jsPsych.data.addProperties({ // add random data to file
+  subject: subject_id
+});
 
+// change library version to 6.10
+var ngs = ['1: Extremely uncharacteristic of me', '2: Somewhat uncharacteristic of me', '3: Uncertain', '4: Somewhat characteristic of me', '5: Extremely characteristic of me']
 var ngs = ['Extremely uncharacteristic of me', 'Somewhat uncharacteristic of me', 'Uncertain', 'Somewhat characteristic of me', 'Extremely characteristic of me']
 var NFC = {
   type: 'survey-likert',
@@ -55,8 +60,28 @@ var NFC = {
   }
 };
 
-timeline.push(NFC);
+var start = {
+    type: 'instructions',
+    pages: [
+        'Click next to begin the questionnaire.'
+    ],
+    show_clickable_nav: true
+}
 
-jsPsych.init({
-  timeline: timeline
-});
+var finish = {
+    type: 'instructions',
+    pages: [
+        'That\'s all! Click next to finish.'
+    ],
+    show_clickable_nav: true
+}
+
+var timeline = [start, NFC, finish];
+      
+//initialize the experiment
+     jsPsych.init({
+        timeline: timeline,
+        on_finish: function(data){
+			  document.body.innerHTML = '<p>Data saved! You can now close this page.</p>'
+		}
+      });
