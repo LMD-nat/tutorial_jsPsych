@@ -1,0 +1,419 @@
+subject_01,trial_type_01,stimulus_01,response_01,response_02,response_03,response_04,response_05,response_06,response_07,response_08,response_09,response_10,response_11
+coa7x84,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+coa7x84,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+coa7x84,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+coa7x84,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+coa7x84,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+coa7x84,survey-multi-choice,,repeatsurvey:Yes,prog:Somewhat Agree,anyprog:No,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+coa7x84,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+coa7x84,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+coa7x84,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+coa7x84,survey-text,,Q0:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+coa7x84,survey-multi-select,,Topics_research:Clinical and Health,Cognitive Science,Neuroscience,Topics_analyses:Data analysis and visualization,Building experiments,Making websites and apps,Getting a job,For my own knowledge,NA,NA,NA
+coa7x84,survey-text,,email:alexbay143@gmail.com,comments:No comments ,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,instructions,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+p99unow,preload,NA,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+p99unow,survey-multi-select,NA,Topics_research:Development,Psychometrics,Topics_analyses:Data analysis and visualization,Building experiments,NA,NA,NA,NA,NA,NA,NA
+y3c3z96,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+y3c3z96,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+y3c3z96,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+y3c3z96,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+y3c3z96,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+y3c3z96,survey-multi-choice,,repeatsurvey:,prog:,anyprog:,classoff:,NA,NA,NA,NA,NA,NA,NA
+y3c3z96,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+y3c3z96,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+y3c3z96,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6jodent,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6jodent,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6jodent,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6jodent,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6jodent,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6jodent,survey-multi-choice,,repeatsurvey:Yes,prog:Agree,anyprog:No,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+6jodent,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6jodent,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6jodent,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6jodent,survey-text,,Q0:none,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6jodent,survey-multi-select,,Topics_research:Cognitive Science,Development,Topics_analyses:Data analysis and visualization,Building experiments,NA,NA,NA,NA,NA,NA,NA
+6jodent,survey-text,,email:,comments:,NA,NA,NA,NA,NA,NA,NA,NA,NA
+d0qlbp9,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+d0qlbp9,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+d0qlbp9,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+d0qlbp9,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+d0qlbp9,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+d0qlbp9,survey-multi-choice,,repeatsurvey:No,prog:Somewhat Disagree,anyprog:Yes,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+d0qlbp9,html-slider-response,Programming knowledge,73,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+d0qlbp9,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nkb0bnz,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nkb0bnz,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nkb0bnz,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nkb0bnz,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nkb0bnz,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nkb0bnz,survey-multi-choice,,repeatsurvey:Yes,prog:Somewhat Disagree,anyprog:Yes,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+nkb0bnz,html-slider-response,Programming knowledge,34,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nkb0bnz,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+k6mhx86,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+k6mhx86,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+k6mhx86,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+k6mhx86,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+k6mhx86,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+k6mhx86,survey-multi-choice,,repeatsurvey:Yes,prog:Strongly Agree,anyprog:Yes,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+k6mhx86,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+k6mhx86,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+k6mhx86,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+k6mhx86,survey-text,,Q0:none\n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+k6mhx86,survey-multi-select,,Topics_research:Language,Cognitive Science,Topics_analyses:Data analysis and visualization,Building experiments,NA,NA,NA,NA,NA,NA,NA
+k6mhx86,survey-text,,email:,comments:,NA,NA,NA,NA,NA,NA,NA,NA,NA
+l5fwlh6,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+l5fwlh6,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+l5fwlh6,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+l5fwlh6,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+l5fwlh6,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+l5fwlh6,survey-multi-choice,,repeatsurvey:,prog:,anyprog:,classoff:,NA,NA,NA,NA,NA,NA,NA
+l5fwlh6,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+l5fwlh6,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+l5fwlh6,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+l5fwlh6,survey-text,,Q0:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+l5fwlh6,survey-multi-select,,Topics_research:,Topics_analyses:,NA,NA,NA,NA,NA,NA,NA,NA,NA
+l5fwlh6,survey-text,,email:,comments:,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ze3lumy,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ze3lumy,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ze3lumy,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ze3lumy,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ze3lumy,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ze3lumy,survey-multi-choice,,repeatsurvey:Yes,prog:Agree,anyprog:No,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+ze3lumy,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ze3lumy,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ze3lumy,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ze3lumy,survey-text,,Q0:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ze3lumy,survey-multi-select,,Topics_research:Clinical and Health,Cognitive Science,Development,Personality and Social,Topics_analyses:Data analysis and visualization,Building experiments,Making websites and apps,Getting a job,NA,NA,NA
+ze3lumy,survey-text,,,comments:,NA,NA,NA,NA,NA,NA,NA,NA,NA
+718cvt0,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+718cvt0,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+718cvt0,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+718cvt0,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+718cvt0,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+718cvt0,survey-multi-choice,,repeatsurvey:Yes,prog:Strongly Agree,anyprog:Yes,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+718cvt0,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+718cvt0,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+718cvt0,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+718cvt0,survey-text,,Q0:JASP\nvague memories of HTML and C++ from high school but that was an extremely long time ago,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+718cvt0,survey-multi-select,,Topics_research:Cognitive Science,Development,Psychometrics,Neuroscience,Topics_analyses:Data analysis and visualization,Building experiments,Making websites and apps,Getting a job,For my own knowledge,NA,NA
+718cvt0,survey-text,,,comments:Cool initiative! I hope it takes off!,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8zof7xf,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8zof7xf,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8zof7xf,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8zof7xf,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8zof7xf,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8zof7xf,survey-multi-choice,,repeatsurvey:Yes,prog:Strongly Agree,anyprog:No,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+8zof7xf,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8zof7xf,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8zof7xf,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8zof7xf,survey-text,,Q0:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8zof7xf,survey-multi-select,,Topics_research:Language,Cognitive Science,Personality and Social,Neuroscience,Topics_analyses:Data analysis and visualization,Making websites and apps,Getting a job,For my own knowledge,NA,NA,NA
+8zof7xf,survey-text,,,comments:,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6592fvp,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6592fvp,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6592fvp,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6592fvp,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6592fvp,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6592fvp,survey-multi-choice,,repeatsurvey:Yes,prog:Somewhat Agree,anyprog:Yes,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+6592fvp,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6592fvp,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6592fvp,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6592fvp,survey-text,,Q0:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6592fvp,survey-multi-select,,Topics_research:Clinical and Health,Psychometrics,Personality and Social,Topics_analyses:Data analysis and visualization,Building experiments,NA,NA,NA,NA,NA,NA
+6592fvp,survey-text,,,comments:Thats a great survey,I had to say it! Well done!,NA,NA,NA,NA,NA,NA,NA,NA
+g8xf97q,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+g8xf97q,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+g8xf97q,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+g8xf97q,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+g8xf97q,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+g8xf97q,survey-multi-choice,,repeatsurvey:,prog:,anyprog:,classoff:,NA,NA,NA,NA,NA,NA,NA
+g8xf97q,html-slider-response,Programming knowledge,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+g8xf97q,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+g8xf97q,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+suf42s0,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+suf42s0,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+suf42s0,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+suf42s0,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+suf42s0,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+suf42s0,survey-multi-choice,,repeatsurvey:Yes,prog:Strongly Disagree,anyprog:No,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+suf42s0,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+suf42s0,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+suf42s0,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+suf42s0,survey-text,,Q0:Session a bit,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+suf42s0,survey-multi-select,,Topics_research:Clinical and Health,Cognitive Science,Development,Psychometrics,Personality and Social,Neuroscience,Topics_analyses:Data analysis and visualization,Building experiments,Making websites and apps,Getting a job,For my own knowledge
+suf42s0,survey-text,,,comments:Keep it uo,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wu0xy9a,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wu0xy9a,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wu0xy9a,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wu0xy9a,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wu0xy9a,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wu0xy9a,survey-multi-choice,,repeatsurvey:Yes,prog:Agree,anyprog:No,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+wu0xy9a,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wu0xy9a,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wu0xy9a,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wu0xy9a,survey-text,,Q0:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wu0xy9a,survey-multi-select,,Topics_research:Clinical and Health,Cognitive Science,Neuroscience,Topics_analyses:Data analysis and visualization,Building experiments,For my own knowledge,NA,NA,NA,NA,NA
+wu0xy9a,survey-text,,,comments:Really cool initiative!,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gjd5c6a,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gjd5c6a,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gjd5c6a,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gjd5c6a,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gjd5c6a,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gjd5c6a,survey-multi-choice,,repeatsurvey:Yes,prog:Somewhat Agree,anyprog:Yes,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+gjd5c6a,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gjd5c6a,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gjd5c6a,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gjd5c6a,survey-text,,Q0:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gjd5c6a,survey-multi-select,,Topics_research:Clinical and Health,Development,Personality and Social,Topics_analyses:Data analysis and visualization,Building experiments,Making websites and apps,NA,NA,NA,NA,NA
+gjd5c6a,survey-text,,,comments:,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j6js9o4,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j6js9o4,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j6js9o4,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j6js9o4,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j6js9o4,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j6js9o4,survey-multi-choice,,repeatsurvey:Yes,prog:Agree,anyprog:Yes,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+j6js9o4,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,64,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j6js9o4,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j6js9o4,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j6js9o4,survey-text,,Q0:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j6js9o4,survey-multi-select,,Topics_research:Clinical and Health,Language,Cognitive Science,Development,Psychometrics,Neuroscience,Topics_analyses:Data analysis and visualization,NA,NA,NA,NA
+j6js9o4,survey-text,,,comments:,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7he8oy6,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7he8oy6,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7he8oy6,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7he8oy6,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7he8oy6,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7he8oy6,survey-multi-choice,,repeatsurvey:Yes,prog:Somewhat Agree,anyprog:Yes,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+7he8oy6,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,63,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7he8oy6,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7he8oy6,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7he8oy6,survey-text,,Q0:no,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7he8oy6,survey-multi-select,,Topics_research:Language,Development,Psychometrics,Personality and Social,Topics_analyses:Data analysis and visualization,Making websites and apps,NA,NA,NA,NA,NA
+7he8oy6,survey-text,,,comments:,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17ol4lx,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17ol4lx,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17ol4lx,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17ol4lx,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17ol4lx,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17ol4lx,survey-multi-choice,,repeatsurvey:Yes,prog:Agree,anyprog:No,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+17ol4lx,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17ol4lx,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17ol4lx,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17ol4lx,survey-text,,Q0:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17ol4lx,survey-multi-select,,Topics_research:Clinical and Health,Language,Cognitive Science,Neuroscience,Topics_analyses:Building experiments,NA,NA,NA,NA,NA,NA
+17ol4lx,survey-text,,,comments:,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7udh56g,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7udh56g,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7udh56g,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7udh56g,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7udh56g,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7udh56g,survey-multi-choice,,repeatsurvey:Yes,prog:Strongly Agree,anyprog:Yes,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+7udh56g,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7udh56g,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7udh56g,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7udh56g,survey-text,,Q0:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7udh56g,survey-multi-select,,Topics_research:Clinical and Health,Development,Topics_analyses:Data analysis and visualization,Building experiments,Getting a job,For my own knowledge,NA,NA,NA,NA,NA
+7udh56g,survey-text,,,comments:,NA,NA,NA,NA,NA,NA,NA,NA,NA
+klvu7ac,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+klvu7ac,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+klvu7ac,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+klvu7ac,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+klvu7ac,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+klvu7ac,survey-multi-choice,,repeatsurvey:Yes,prog:Agree,anyprog:Yes,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+klvu7ac,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,91,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+klvu7ac,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+klvu7ac,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+klvu7ac,survey-text,,Q0:Qualtrics,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+klvu7ac,survey-multi-select,,Topics_research:Cognitive Science,Psychometrics,Topics_analyses:Building experiments,Making websites and apps,NA,NA,NA,NA,NA,NA,NA
+klvu7ac,survey-text,,,comments:,NA,NA,NA,NA,NA,NA,NA,NA,NA
+tcau1cw,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+tcau1cw,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+tcau1cw,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+tcau1cw,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+tcau1cw,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+tcau1cw,survey-multi-choice,,repeatsurvey:No,prog:Strongly Agree,anyprog:No,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+tcau1cw,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+tcau1cw,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+tcau1cw,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+tcau1cw,survey-text,,Q0:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+tcau1cw,survey-multi-select,,Topics_research:Personality and Social,Neuroscience,Topics_analyses:Building experiments,Making websites and apps,For my own knowledge,NA,NA,NA,NA,NA,NA
+tcau1cw,survey-text,,,comments:,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gtgzqzs,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gtgzqzs,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gtgzqzs,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gtgzqzs,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gtgzqzs,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gtgzqzs,survey-multi-choice,,repeatsurvey:Yes,prog:Somewhat Agree,anyprog:Yes,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+gtgzqzs,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gtgzqzs,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gtgzqzs,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gtgzqzs,survey-text,,Q0:Java.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+gtgzqzs,survey-multi-select,,Topics_research:Clinical and Health,Cognitive Science,Development,Psychometrics,Personality and Social,Topics_analyses:Data analysis and visualization,Building experiments,Getting a job,For my own knowledge,NA,NA
+gtgzqzs,survey-text,,,comments:,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wq0npaa,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wq0npaa,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wq0npaa,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wq0npaa,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wq0npaa,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wq0npaa,survey-multi-choice,,repeatsurvey:Yes,prog:Agree,anyprog:No,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+wq0npaa,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wq0npaa,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wq0npaa,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wq0npaa,survey-text,,Q0:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wq0npaa,survey-multi-select,,Topics_research:Clinical and Health,Language,Cognitive Science,Development,Personality and Social,Topics_analyses:Data analysis and visualization,Building experiments,Getting a job,For my own knowledge,NA,NA
+wq0npaa,survey-text,,,comments:,NA,NA,NA,NA,NA,NA,NA,NA,NA
+uctbad0,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+uctbad0,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+uctbad0,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+uctbad0,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+uctbad0,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+uctbad0,survey-multi-choice,,repeatsurvey:Yes,prog:Agree,anyprog:No,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+uctbad0,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+uctbad0,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+uctbad0,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+uctbad0,survey-text,,Q0:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+uctbad0,survey-multi-select,,Topics_research:Clinical and Health,Psychometrics,Personality and Social,Topics_analyses:Data analysis and visualization,Building experiments,Getting a job,For my own knowledge,NA,NA,NA,NA
+uctbad0,survey-text,,,comments:Thanks for doing this !!,NA,NA,NA,NA,NA,NA,NA,NA,NA
+curmbm5,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+curmbm5,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+curmbm5,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+curmbm5,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+curmbm5,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+curmbm5,survey-multi-choice,,repeatsurvey:Yes,prog:Agree,anyprog:Yes,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+curmbm5,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+curmbm5,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+curmbm5,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+curmbm5,survey-text,,Q0:N/A,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+curmbm5,survey-multi-select,,Topics_research:Clinical and Health,Psychometrics,Personality and Social,Neuroscience,Topics_analyses:Data analysis and visualization,Building experiments,For my own knowledge,NA,NA,NA,NA
+curmbm5,survey-text,,,comments:No,thanks!,NA,NA,NA,NA,NA,NA,NA,NA
+j1m0hyr,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j1m0hyr,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j1m0hyr,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j1m0hyr,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j1m0hyr,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j1m0hyr,survey-multi-choice,,repeatsurvey:Yes,prog:Agree,anyprog:No,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+j1m0hyr,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j1m0hyr,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j1m0hyr,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j1m0hyr,survey-text,,Q0:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+j1m0hyr,survey-multi-select,,Topics_research:Clinical and Health,Cognitive Science,Neuroscience,Topics_analyses:Data analysis and visualization,Building experiments,Making websites and apps,Getting a job,For my own knowledge,NA,NA,NA
+j1m0hyr,survey-text,,,comments:I am wondering whether or not the first workshop that will be held (to talk about the basics of coding) would require any,NA,NA,NA,NA,NA,NA,NA,NA,NA
+m03ptmf,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+m03ptmf,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+m03ptmf,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+m03ptmf,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+m03ptmf,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+m03ptmf,survey-multi-choice,,repeatsurvey:Yes,prog:Somewhat Agree,anyprog:No,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+m03ptmf,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+m03ptmf,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+m03ptmf,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+m03ptmf,survey-text,,Q0:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+m03ptmf,survey-multi-select,,Topics_research:Personality and Social,Topics_analyses:Data analysis and visualization,Building experiments,Making websites and apps,Getting a job,For my own knowledge,NA,NA,NA,NA,NA
+m03ptmf,survey-text,,,comments:,NA,NA,NA,NA,NA,NA,NA,NA,NA
+afaq0x6,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+afaq0x6,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+afaq0x6,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+afaq0x6,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+afaq0x6,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+afaq0x6,survey-multi-choice,,repeatsurvey:No,prog:Somewhat Disagree,anyprog:Yes,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+afaq0x6,html-slider-response,Programming knowledge,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+afaq0x6,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+afaq0x6,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nwce7h0,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nwce7h0,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nwce7h0,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nwce7h0,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nwce7h0,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nwce7h0,survey-multi-choice,,repeatsurvey:Yes,prog:Strongly Agree,anyprog:Yes,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+nwce7h0,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nwce7h0,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nwce7h0,free-sort,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nwce7h0,survey-text,,Q0:,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nwce7h0,survey-multi-select,,Topics_research:Clinical and Health,Cognitive Science,Development,Psychometrics,Neuroscience,Topics_analyses:Data analysis and visualization,Building experiments,Making websites and apps,Getting a job,For my own knowledge,NA
+nwce7h0,survey-text,,,comments:,NA,NA,NA,NA,NA,NA,NA,NA,NA
+n2bk37z,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37rfoa4,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37rfoa4,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37rfoa4,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37rfoa4,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37rfoa4,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+37rfoa4,survey-multi-choice,,repeatsurvey:No,prog:Neutral,anyprog:Yes,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+37rfoa4,html-slider-response,%%,58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oomxays,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oomxays,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oomxays,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oomxays,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+oomxays,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,instructions,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ykl5u58,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+f2mrovv,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+a6y6d62,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1eeoj24,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bru0r53,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6ep7mlf,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1ek894t,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+hu0dmzb,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+89xarwd,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+84k2tvo,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+84k2tvo,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+84k2tvo,html-button-response,,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ph6obeu,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+mw26jgj,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+hn20zga,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1gk816k,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+hggrbvd,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8uc7bnn,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6ej5z0k,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6ej5z0k,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6ej5z0k,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6ej5z0k,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7ehj0yy,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7ehj0yy,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7ehj0yy,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7ehj0yy,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7ehj0yy,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7ehj0yy,survey-multi-choice,,repeatsurvey:Yes,prog:Strongly Disagree,anyprog:No,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+7ehj0yy,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7ehj0yy,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+dk8ynbd,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+by48fln,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+torjmhs,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+torjmhs,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+torjmhs,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+torjmhs,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+torjmhs,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+torjmhs,survey-multi-choice,,repeatsurvey:Yes,prog:Neutral,anyprog:Yes,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+torjmhs,html-slider-response,Programming knowledge,32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+pt1m7sj,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+pt1m7sj,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+pt1m7sj,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+pt1m7sj,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+pt1m7sj,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+wpvetll,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7xr6m9z,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7xr6m9z,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7xr6m9z,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7xr6m9z,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7xr6m9z,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7xr6m9z,survey-multi-choice,,repeatsurvey:No,prog:Somewhat Disagree,anyprog:Yes,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+7xr6m9z,html-slider-response,Programming knowledge,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7xr6m9z,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+auea4zt,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bj7bhxs,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bj7bhxs,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bj7bhxs,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bj7bhxs,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bj7bhxs,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+bj7bhxs,survey-multi-choice,,repeatsurvey:Yes,prog:Strongly Agree,anyprog:No,classoff:Yes,NA,NA,NA,NA,NA,NA,NA
+bj7bhxs,html-slider-response,Use the slider to answer this question. You can slide the indicator anywhere between these two extremes.,53,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ckcgqfk,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+qnug2a4,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8vbpuvt,preload,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8vbpuvt,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8vbpuvt,html-button-response,,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8vbpuvt,html-button-response,<p>Alright! Let's keep going. Which of these options best describes you?<br></p>,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+8vbpuvt,instructions,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+f24rpuv,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+rqj8urx,preload,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
