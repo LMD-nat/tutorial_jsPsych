@@ -52,4 +52,4 @@ Here are the [slides](https://docs.google.com/presentation/d/1ZAh7hTLqUN_ZtBQx27
 
 Sure! Here's a [page](https://github.com/LMD-nat/tutorial_jsPsych/wiki/Getting-Started) I wrote on how to get started and how to make a *very* simple experiment. Stay tuned for instructions and code for the other tasks we'll be looking at. 
 
-I'll also be adding written instructions for each experiment/trick we went through. 
+Check out the [wiki](https://github.com/LMD-nat/tutorial_jsPsych/wiki) for step by step instructions and code links.
