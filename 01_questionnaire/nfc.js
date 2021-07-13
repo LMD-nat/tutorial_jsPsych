@@ -11,8 +11,7 @@ jsPsych.data.addProperties({ // add random data to file
 });
 
 // change library version to 6.10
-var ngs = ['1: Extremely uncharacteristic of me', '2: Somewhat uncharacteristic of me', '3: Uncertain', '4: Somewhat characteristic of me', '5: Extremely characteristic of me']
-var ngs = ['Extremely uncharacteristic of me', 'Somewhat uncharacteristic of me', 'Uncertain', 'Somewhat characteristic of me', 'Extremely characteristic of me']
+var ngs = ['Extremely uncharacteristic of me', 'Somewhat uncharacteristic of me', 'Uncertain', 'Somewhat characteristic of me', 'Extremely characteristic of me'];
 var NFC = {
   type: 'survey-likert',
   questions: [
