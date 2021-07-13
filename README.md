@@ -42,11 +42,14 @@ We're going to build four small experiments, and then (maybe) one big experiment
 Then all together, they'll make for a neat experiment on cognition. We can even look later to see if the questionnaire data we collect is at all correlated to how well people perform on the tasks. 
 
 
-## When is it? ##
+## When was it? ##
 
-July 9th, 2021. More info coming soon! [Email me](mailto:nathalie.germain@mail.concordia.ca) if you have questions!
+July 9th, 2021. [Email me](mailto:nathalie.germain@mail.concordia.ca) for a recording!
 
+Here are the [slides](https://docs.google.com/presentation/d/1ZAh7hTLqUN_ZtBQx27fPhNOssGavjreQPBf8Bqd-lc4/edit?usp=sharing) from the workshop. 
 
 ## Can I just try to figure it out myself? ##
 
 Sure! Here's a [page](https://github.com/LMD-nat/tutorial_jsPsych/wiki/Getting-Started) I wrote on how to get started and how to make a *very* simple experiment. Stay tuned for instructions and code for the other tasks we'll be looking at. 
+
+I'll also be adding written instructions for each experiment/trick we went through. 
