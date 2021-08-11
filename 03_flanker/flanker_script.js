@@ -1,5 +1,7 @@
-// Flanker Task
+// Flanker Task by Nathalie
+// use the z (left flanker) and the m (right flanker) to perform the task
 
+// always initialize the timeline at the top of the page
 var timeline = []
 
 var one = {
@@ -81,6 +83,8 @@ var fixation = {
     trial_duration: 500,
 };
 
+// this way, the fixation will always come before the presentation of the flanker trial
+
 on = {
   timeline: [fixation, one],
 };
@@ -94,9 +98,13 @@ fo = {
   timeline: [fixation, four],
 };
 
+// five of each trial in an Array
 var flanker = [on, tw, th, fo, on, tw, th, fo, on, tw, th, fo, on, tw, th, fo, on, tw, th, fo];
+
+// shuffles (randomizes all of the trials)
 var experiment = jsPsych.randomization.shuffle(flanker);
 
+// the init file will go at the bottom of the page
 jsPsych.init({
         timeline: experiment,
         on_finish: function(data){
